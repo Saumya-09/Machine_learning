@@ -17,3 +17,6 @@ This repository has basic machine learning programs
 |9| Write a program to apply decision tree classifier on pima Indian diabetes dataset.|
 |10| Design and implement a neural network with Pima Indian diabetes dataset.|
 |11| Implement multiclass classification with neural network on Iris flower species.|
+
+
+Feel free to suggest me changes. 
