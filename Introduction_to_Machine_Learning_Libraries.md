@@ -3,12 +3,12 @@
 Description:
 
 
-1. SciPy:
+### SciPy:
 
 
-SciPy is a library of software for engineering and science. Again you need to understand the difference between SciPy Stack and SciPy Library. SciPy contains modules for linear algebra, optimization, integration, and statistics. The main functionality of SciPy library is built upon NumPy, and its arrays thus make substantial use of NumPy. It provides efficient numerical routines as numerical integration, optimization, and many others via its specific submodules. The functions in all submodules of SciPy are well documentedâ€Šâ€”â€Šanother coin in its pot.
+SciPy is a library of software for engineering and science. Again you need to understand the difference between SciPy Stack and SciPy Library. SciPy contains modules for linear algebra, optimization, integration, and statistics. The main functionality of SciPy library is built upon NumPy, and its arrays thus make substantial use of NumPy. It provides efficient numerical routines as numerical integration, optimization, and many others via its specific submodules. The functions in all submodules of SciPy are well document another coin in its pot.
 
-2. SciKit-Learn:
+### SciKit-Learn:
 
 
 
@@ -21,11 +21,11 @@ The scikit-learn exposes a concise and consistent interface to the common machin
 
 
 
-3.  Keras:
+### Keras:
 
 
 
-And finally, letâ€™s look at the Keras. It is an open-source library for building Neural Networks at a high-level of the interface, and it is written in Python. It is minimalistic and straightforward with high-level of extensibility. It uses Theano or TensorFlow as its backends, but Microsoft makes its efforts now to integrate CNTK (Microsoftâ€™s Cognitive Toolkit) as a new back-end.
+And finally, lets look at the Keras. It is an open-source library for building Neural Networks at a high-level of the interface, and it is written in Python. It is minimalistic and straightforward with high-level of extensibility. It uses Theano or TensorFlow as its backends, but Microsoft makes its efforts now to integrate CNTK (Microsofts Cognitive Toolkit) as a new back-end.
 
 The minimalistic approach in design aimed at fast and easy experimentation through the building of compact systems.
 
@@ -33,10 +33,10 @@ Keras is really eased to get started with and keep going with quick prototyping.
 
 The general idea of Keras is based on layers, and everything else is built around them. Data is prepared in tensors, the first layer is responsible for input of tensors, the last layer is responsible for output, and the model is built in between.
 
-4. TensorFlow:
+### TensorFlow:
 
 
 
-Coming from developers at Google, it is an open-source library of data flow graphs computations, which are sharpened for Machine Learning. It was designed to meet the high-demand requirements of Google environment for training Neural Networks and is a successor of DistBelief, a Machine Learning system, based on Neural Networks. However, TensorFlowisnâ€™t strictly for scientific use in borderâ€™s of Googleâ€Šâ€”â€Šit is general enough to use it in a variety of real-world application.
+Coming from developers at Google, it is an open-source library of data flow graphs computations, which are sharpened for Machine Learning. It was designed to meet the high-demand requirements of Google environment for training Neural Networks and is a successor of DistBelief, a Machine Learning system, based on Neural Networks. However, TensorFlow isnt strictly for scientific use in borders of Google it is general enough to use it in a variety of real-world application.
 
-The key feature of TensorFlow is their multi-layered nodes system that enables quick training of artificial neural networks on large datasets. This powers Googleâ€™s voice recognition and object identification from pictures.
+The key feature of TensorFlow is their multi-layered nodes system that enables quick training of artificial neural networks on large datasets. This powers Googles voice recognition and object identification from pictures.
